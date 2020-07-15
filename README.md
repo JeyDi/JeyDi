@@ -1,5 +1,5 @@
 
-![Personal Image](coverGitHub.jpeg)
+![Personal Image](https://github.com/JeyDi/JeyDi/blob/master/coverGitHub.jpeg "coverGitHub")
 
 
 ### Welcome here! 👋
