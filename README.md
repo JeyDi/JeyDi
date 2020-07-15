@@ -1,5 +1,5 @@
 
-![CoverImage](./CoverGitHub.png)
+![CoverImage](./coverGitHub.png)
 
 ### Welcome here! 👋
 
