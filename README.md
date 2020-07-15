@@ -25,4 +25,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Usefull links: 
+- https://github.com/matiassingers/awesome-readme
+- https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+- https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj
+
+
 -->
