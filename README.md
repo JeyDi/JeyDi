@@ -3,15 +3,15 @@
 
 # 💫 About Me:
 
-I am a **Computer Scientist** and I'm working as **AI Technical Leader** @MDPI, focused on on **productionalise models**, research and **valuable AI**, **Data products** effectively.
+I am a **Computer Scientist** and I'm working as **CTO** @Intella, focused on creating new space software solutions using machine learning models and AI to simplify the complexity of data into simple actionable insights. 
 
-I can provide **help** and **support** in the construction of Data, Software and Machine Learning models into end-to-end pipelines, both on premise and on cloud.
+I can provide **help** and **support** in the creation of Digital products using Data, Software, and Machine Learning models into end-to-end pipelines, both on-premise and on the cloud.
 
-I have extensive experience in **Python** **development**, **Cloud technologies**, **AI and Machine Learning algorithms**, **Data Pipelines** and **IT automation tools**.
+I have extensive experience in **Python** **development**, **Cloud technologies**, **Machine Learning algorithms**, **Data Pipelines**, and **IT automation tools**.
 
-I worked in large, medium and startup companies in the past, having the opportunity to **face different business areas**.
+I worked in large, medium, and startup companies, having the opportunity to **face different business areas**, **problems**, **solutions** and solve business use cases using technology.
 
-I'm one of the **founder** and **organiser** of **PythonBiellaGroup** and also a **Teacher**.
+I'm one of the **founder** and **organizer** of **PythonBiellaGroup**, an Open Source python online community, speaker, and also a **Teacher**.
 
 **My motto:**
 
@@ -21,9 +21,7 @@ I'm one of the **founder** and **organiser** of **PythonBiellaGroup** and also a
 
 ## 🌐 Socials and contacts:
 
-- 👯 You can find all my social network and contacts here [on this link!](https://linktr.ee/jeydi92)
-
-- 📫 How to easily reach me: [my website with all informations](https://andreaguzzo.com)
+- 📫 How to easily reach me: [my website with all information](https://andreaguzzo.com)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JeyDi&icon=2&color=1)](https://visitcount.itsvg.in)
